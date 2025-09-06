@@ -23,7 +23,7 @@ BOARD_HAVE_QCOM_FM := true
 TARGET_SCREEN_DENSITY := 400
 
 # Kernel
-#TARGET_KERNEL_CONFIG += vendor/meizu/16.config
+#TARGET_KERNEL_CONFIG += vendor/meizu/X8.config
 
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
